@@ -1,0 +1,17 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.Logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.Links {
+    display: flex;
+    gap: 40px;
+}
+.LastName {
+    font-weight: 300;
+}

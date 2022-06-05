@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+html {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+body {
+    display: flex;
+    justify-content: center;
+    color: #222222;
+    font-weight: 300;
+    font-family: 'Quicksand', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: #222222;
+}
+h1 {
+    font-size: 3rem;
+    font-family: 'Libre Baskerville', serif;
+}
+.Container {
+    max-width: 1400px;
+  }
+.ContainerFull {
+    width: 100%;
+}

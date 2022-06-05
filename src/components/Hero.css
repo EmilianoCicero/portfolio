@@ -1,0 +1,26 @@
+.hero {
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    gap: 180px;
+}
+.hero h1 {
+    margin-top: 10px;
+}
+.hero h1, .hero p, .hero h2 {
+    margin-left: 40px;
+}
+.hero p {
+    font-size: 1.5rem;
+    margin-top: -26px;
+    color: #444;
+}
+.image {
+    width: 500px;
+    height: 600px;
+    background-color: #f1f2f5;
+    flex-shrink: 0;
+    border-radius: 3rem;
+    margin-right: 40px;
+    object-fit: cover;
+}
