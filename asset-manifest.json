@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b786e089.css",
+    "main.js": "/portfolio/static/js/main.b89217dd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cicero-emiliano.jpeg": "/portfolio/static/media/cicero-emiliano.8fbed07d9b483107e082.jpeg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.b786e089.css.map": "/portfolio/static/css/main.b786e089.css.map",
+    "main.b89217dd.js.map": "/portfolio/static/js/main.b89217dd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b786e089.css",
+    "static/js/main.b89217dd.js"
+  ]
+}
