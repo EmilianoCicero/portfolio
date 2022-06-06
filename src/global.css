@@ -20,6 +20,10 @@ h1 {
     font-size: 3rem;
     font-family: 'Libre Baskerville', serif;
 }
+h2 {
+    font-size: 2rem;
+    font-family: 'Libre Baskerville', serif;
+}
 .Container {
     max-width: 1400px;
   }

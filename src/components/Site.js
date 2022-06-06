@@ -4,6 +4,7 @@ import '../global.css';
 import NavBar from './NavBar';
 import Hero from './Hero';
 import PortfolioGrid from './PortfolioGrid';
+import About from './About';
 
 function Site() {
   return (
@@ -12,6 +13,7 @@ function Site() {
       <NavBar />
       <Hero />      
       <PortfolioGrid />
+      <About />
     </div>
 
     </>
