@@ -18,10 +18,11 @@ a {
 }
 h1 {
     font-size: 3rem;
-    font-family: 'Libre Baskerville', serif;
 }
 h2 {
     font-size: 2rem;
+}
+h1, h2 {
     font-family: 'Libre Baskerville', serif;
 }
 .Container {

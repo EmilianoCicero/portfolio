@@ -12,7 +12,7 @@ function PortfolioGrid () {
         <div class="PortfolioGrid">
             <PortfolioCard image={PortfolioImage} projectName="Lexicon DS" />
             <PortfolioCard image={PortfolioImage} projectName="Error Pages" />
-            <PortfolioCard image={PortfolioImage} projectName="Lima Team" />
+            <PortfolioCard image={PortfolioImage} projectName="Color System" />
             <PortfolioCard image={PortfolioImage} projectName="Empty States" />
         </div>
         </div>

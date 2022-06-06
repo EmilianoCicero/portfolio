@@ -1,10 +1,10 @@
 .PortfolioCard {
     border-radius: 1rem;
     width: 100%;
+    transition-duration: 400ms;
 }
 .PortfolioCard:hover {
-    transform: translateY(-20px);
-    transition-duration: 400ms;
+    transform: translateY(-1rem);
 }
 .CardImage {
     height: 400px;
@@ -18,5 +18,5 @@
     margin-top: -30px;
 }
 .PortfolioCard h3 {
-    margin-top: 10px;
+    margin-top: 4px;
 }
